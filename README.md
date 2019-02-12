@@ -1,1 +1,1 @@
-A rock paper scissors game, currently only through console
+Rock paper scissors game 
